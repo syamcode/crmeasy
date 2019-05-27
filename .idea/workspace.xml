@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/crmapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-    </list>
+    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crmapp/wsgi.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -35,7 +31,24 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crmapp/static/css/app.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="619" column="1" selection-start-line="619" selection-start-column="1" selection-end-line="619" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -51,6 +64,11 @@
       <list>
         <option value="$PROJECT_DIR$/crmapp/settings.py" />
         <option value="$PROJECT_DIR$/crmapp/wsgi.py" />
+        <option value="$PROJECT_DIR$/crmapp/static/css/bootstram.min.css" />
+        <option value="$PROJECT_DIR$/crmapp/static/js/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/crmapp/static/js/jquery.min.js" />
+        <option value="$PROJECT_DIR$/crmapp/static/js/app.js" />
+        <option value="$PROJECT_DIR$/crmapp/static/css/app.css" />
       </list>
     </option>
   </component>
@@ -58,6 +76,9 @@
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -76,6 +97,26 @@
               <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
               <item name="crmapp" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
+              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
+              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
+              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -86,6 +127,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -137,12 +179,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558869635972</updated>
       <workItem from="1558869644468" duration="2114000" />
-      <workItem from="1558932444795" duration="355000" />
+      <workItem from="1558932444795" duration="641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2469000" />
+    <option name="totallyTimeSpent" value="2755000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -157,7 +199,7 @@
     <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13971743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30141288" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -194,10 +236,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/static/js/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="27605" selection-start-line="5" selection-start-column="27605" selection-end-line="5" selection-end-column="27605" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/static/js/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="28863" selection-start-line="5" selection-start-column="28863" selection-end-line="5" selection-end-column="28863" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/static/css/bootstram.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="838" column="87" selection-start-line="838" selection-start-column="87" selection-end-line="838" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/static/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="58" column="3" selection-start-line="58" selection-start-column="3" selection-end-line="58" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/crmapp/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/static/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="619" column="1" selection-start-line="619" selection-start-column="1" selection-end-line="619" selection-end-column="1" />
         </state>
       </provider>
     </entry>
