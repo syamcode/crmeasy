@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/static/css/bootstram.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/static/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/templates/marketing/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/templates/marketing/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crmapp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,11 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crmapp/templates/marketing/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
+            <state relative-caret-position="49">
               <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runtime.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="12" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -112,14 +116,14 @@
         <option value="$PROJECT_DIR$/crmapp/urls.py" />
         <option value="$PROJECT_DIR$/crmapp/templates/base.html" />
         <option value="$PROJECT_DIR$/crmapp/templates/marketing/home.html" />
+        <option value="$PROJECT_DIR$/runtime.txt" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="229" />
-    <option name="y" value="40" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="676" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -135,43 +139,6 @@
             <path>
               <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
               <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-              <item name="marketing" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
-              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-              <item name="marketing" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -236,12 +203,12 @@
       <option name="presentableId" value="Default" />
       <updated>1558869635972</updated>
       <workItem from="1558869644468" duration="2114000" />
-      <workItem from="1558932444795" duration="5500000" />
+      <workItem from="1558932444795" duration="6510000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7614000" />
+    <option name="totallyTimeSpent" value="8624000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,10 +220,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="229" y="40" width="1346" height="688" extended-state="0" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19595645" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3956044" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -270,7 +237,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.38918918" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.358804" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -364,8 +331,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crmapp/templates/marketing/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="49">
           <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runtime.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
