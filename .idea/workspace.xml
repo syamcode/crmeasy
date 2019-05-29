@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="" />
+    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/crmapp/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crmapp/templates/marketing/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/templates/marketing/home.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,17 +52,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crmapp/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-816">
-              <caret selection-end-column="17" />
+            <state relative-caret-position="167">
+              <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crmapp/templates/marketing/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+            <state relative-caret-position="188">
+              <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -81,10 +84,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crmapp/templates/subscribers/subscriber_new.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
+            <state relative-caret-position="680">
               <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
             </state>
           </provider>
@@ -125,6 +128,7 @@
       <find>template</find>
       <find>debug</find>
       <find>static</find>
+      <find>url</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -140,14 +144,14 @@
         <option value="$PROJECT_DIR$/crmapp/static/js/app.js" />
         <option value="$PROJECT_DIR$/crmapp/static/css/app.css" />
         <option value="$PROJECT_DIR$/crmapp/marketing/views.py" />
-        <option value="$PROJECT_DIR$/crmapp/templates/base.html" />
-        <option value="$PROJECT_DIR$/crmapp/templates/marketing/home.html" />
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/crmapp/settings.py" />
         <option value="$PROJECT_DIR$/subscribers/forms.py" />
         <option value="$PROJECT_DIR$/subscribers/views.py" />
         <option value="$PROJECT_DIR$/crmapp/urls.py" />
         <option value="$PROJECT_DIR$/crmapp/templates/subscribers/subscriber_new.html" />
+        <option value="$PROJECT_DIR$/crmapp/templates/base.html" />
+        <option value="$PROJECT_DIR$/crmapp/templates/marketing/home.html" />
       </list>
     </option>
   </component>
@@ -258,12 +262,12 @@
       <updated>1558869635972</updated>
       <workItem from="1558869644468" duration="2114000" />
       <workItem from="1558932444795" duration="8573000" />
-      <workItem from="1559117674149" duration="2766000" />
+      <workItem from="1559117674149" duration="2877000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13453000" />
+    <option name="totallyTimeSpent" value="13564000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -278,7 +282,7 @@
     <frame x="588" y="0" width="785" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2924138" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2924138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -292,7 +296,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.358804" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.358804" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -405,20 +409,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crmapp/templates/marketing/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crmapp/templates/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crmapp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1597">
@@ -441,8 +431,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/crmapp/templates/subscribers/subscriber_new.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
+        <state relative-caret-position="680">
           <caret line="40" column="10" lean-forward="true" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="59" column="17" lean-forward="true" selection-start-line="59" selection-start-column="17" selection-end-line="59" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/templates/marketing/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
         </state>
       </provider>
     </entry>
