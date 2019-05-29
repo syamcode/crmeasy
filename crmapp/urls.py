@@ -17,7 +17,9 @@ from django.urls import path
 from crmapp.marketing.views import HomePage
 from django.conf.urls.static import static
 from django.conf import settings
+from crmapp.subscribers import views
+
 urlpatterns = [
     path('', HomePage.as_view()),
-    path('/signup', 'crmapp.subscribers.views.subscriber_new', name='sub_new')
+    path('signup/', views.subscriber_new, name='sub_new'),
 ] + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
