@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="" />
+    <list default="true" id="bf953412-5f1a-4d1d-b043-9ee47bd3f02b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crmapp/subscribers/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/forms.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/migrations/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/crmapp/subscribers/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subscribers/views.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +27,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/crmapp/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
+            <state relative-caret-position="238">
               <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
               <folding>
                 <element signature="e#307#316#0" expanded="true" />
@@ -25,13 +36,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/subscribers/forms.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crmapp/subscribers/forms.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="17">
+              <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crmapp/subscribers/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding>
-                <element signature="e#0#24#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,6 +148,7 @@
         <option value="$PROJECT_DIR$/runtime.txt" />
         <option value="$PROJECT_DIR$/crmapp/settings.py" />
         <option value="$PROJECT_DIR$/subscribers/forms.py" />
+        <option value="$PROJECT_DIR$/subscribers/views.py" />
       </list>
     </option>
   </component>
@@ -159,6 +180,7 @@
             <path>
               <item name="crmeasy" type="b2602c69:ProjectViewProjectNode" />
               <item name="crmeasy" type="462c0819:PsiDirectoryNode" />
+              <item name="crmapp" type="462c0819:PsiDirectoryNode" />
               <item name="subscribers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -175,6 +197,11 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Projects\Django\crmeasy\crmapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -225,12 +252,12 @@
       <updated>1558869635972</updated>
       <workItem from="1558869644468" duration="2114000" />
       <workItem from="1558932444795" duration="8573000" />
-      <workItem from="1559117674149" duration="1086000" />
+      <workItem from="1559117674149" duration="2106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11773000" />
+    <option name="totallyTimeSpent" value="12793000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -245,7 +272,7 @@
     <frame x="588" y="0" width="785" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28275862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15862069" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -259,7 +286,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32890365" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.358804" />
+      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.358804" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -317,16 +344,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crmapp/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
-          <folding>
-            <element signature="e#307#316#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crmapp/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -368,12 +385,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/subscribers/forms.py">
+    <entry file="file://$PROJECT_DIR$/crmapp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="54" column="24" selection-start-line="54" selection-start-column="24" selection-end-line="54" selection-end-column="24" />
           <folding>
-            <element signature="e#0#24#0" expanded="true" />
+            <element signature="e#307#316#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/forms/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="182" column="8" selection-start-line="182" selection-start-column="8" selection-end-line="182" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="356" column="6" selection-start-line="356" selection-start-column="6" selection-end-line="356" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/django/contrib/auth/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5898">
+          <caret line="64" column="6" selection-start-line="64" selection-start-column="6" selection-end-line="64" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/subscribers/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="42" lean-forward="true" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crmapp/subscribers/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
           </folding>
         </state>
       </provider>
